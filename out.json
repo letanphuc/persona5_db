@@ -4,3104 +4,2690 @@
     "lvl": 75,
     "race": "Judgement",
     "resists": "dd------sd",
-    "stats": [
-      51,
-      42,
-      58,
-      38,
-      43
-    ],
     "trait": "Mouth of Savoring",
-    "name": "Abaddon"
+    "name": "Abaddon",
+    "st": 51,
+    "ma": 42,
+    "en": 58,
+    "ag": 38,
+    "lu": 43
   },
   {
     "inherits": "elec",
     "lvl": 3,
     "race": "Chariot",
     "resists": "-s--sw----",
-    "stats": [
-      3,
-      4,
-      5,
-      7,
-      3
-    ],
     "trait": "Rare Antibody",
-    "name": "Agathion"
+    "name": "Agathion",
+    "st": 3,
+    "ma": 4,
+    "en": 5,
+    "ag": 7,
+    "lu": 3
   },
   {
     "inherits": "curse",
     "lvl": 83,
     "race": "Death",
     "resists": "------sswr",
-    "stats": [
-      45,
-      61,
-      49,
-      54,
-      47
-    ],
     "trait": "Just Die",
-    "name": "Alice"
+    "name": "Alice",
+    "st": 45,
+    "ma": 61,
+    "en": 49,
+    "ag": 54,
+    "lu": 47
   },
   {
     "inherits": "ice",
     "lvl": 81,
     "race": "Empress",
     "resists": "rrwd--n--w",
-    "stats": [
-      45,
-      54,
-      57,
-      49,
-      45
-    ],
     "trait": "Frigid Bloodline",
-    "name": "Alilat"
+    "name": "Alilat",
+    "st": 45,
+    "ma": 54,
+    "en": 57,
+    "ag": 49,
+    "lu": 45
   },
   {
     "inherits": "almighty",
     "lvl": 13,
     "race": "Lovers",
     "resists": "--d---w---",
-    "stats": [
-      7,
-      10,
-      9,
-      11,
-      9
-    ],
     "trait": "Electric Bloodline",
-    "name": "Ame-no-Uzume"
+    "name": "Ame-no-Uzume",
+    "st": 7,
+    "ma": 10,
+    "en": 9,
+    "ag": 11,
+    "lu": 9
   },
   {
     "inherits": "nuke",
     "lvl": 44,
     "race": "Councillor",
     "resists": "---dw-----",
-    "stats": [
-      26,
-      30,
-      31,
-      27,
-      25
-    ],
     "trait": "Atomic Bloodline",
-    "name": "Ananta"
+    "name": "Ananta",
+    "st": 26,
+    "ma": 30,
+    "en": 31,
+    "ag": 27,
+    "lu": 25
   },
   {
     "inherits": "ice",
     "lvl": 27,
     "race": "Devil",
     "resists": "--ws--s-wn",
-    "stats": [
-      15,
-      19,
-      19,
-      21,
-      14
-    ],
     "trait": "Foul Odor",
-    "name": "Andras"
+    "name": "Andras",
+    "st": 15,
+    "ma": 19,
+    "en": 19,
+    "ag": 21,
+    "lu": 14
   },
   {
     "inherits": "bless",
     "lvl": 9,
     "race": "Justice",
     "resists": "-w--s---nw",
-    "stats": [
-      6,
-      9,
-      5,
-      9,
-      5
-    ],
     "trait": "Skillful Combo",
-    "name": "Angel"
+    "name": "Angel",
+    "st": 6,
+    "ma": 9,
+    "en": 5,
+    "ag": 9,
+    "lu": 5
   },
   {
     "inherits": "almighty",
     "lvl": 34,
     "race": "Judgement",
     "resists": "-s----s-nn",
-    "stats": [
-      19,
-      24,
-      22,
-      21,
-      23
-    ],
     "trait": "Deathly Illness",
-    "name": "Anubis"
+    "name": "Anubis",
+    "st": 19,
+    "ma": 24,
+    "en": 22,
+    "ag": 21,
+    "lu": 23
   },
   {
     "inherits": "wind",
     "lvl": 25,
     "race": "Hierophant",
     "resists": "-w--sr-w--",
-    "stats": [
-      14,
-      18,
-      15,
-      21,
-      14
-    ],
     "trait": "Wind Bloodline",
-    "name": "Anzu"
+    "name": "Anzu",
+    "st": 14,
+    "ma": 18,
+    "en": 15,
+    "ag": 21,
+    "lu": 14
   },
   {
     "inherits": "ice",
     "lvl": 11,
     "race": "Priestess",
     "resists": "--wsw-----",
-    "stats": [
-      7,
-      11,
-      6,
-      10,
-      6
-    ],
     "trait": "Internal Hypnosis",
-    "name": "Apsaras"
+    "name": "Apsaras",
+    "st": 7,
+    "ma": 11,
+    "en": 6,
+    "ag": 10,
+    "lu": 6
   },
   {
     "inherits": "nuke",
     "lvl": 30,
     "race": "Chariot",
     "resists": "s--w------",
-    "stats": [
-      20,
-      18,
-      20,
-      20,
-      19
-    ],
     "trait": "Atomic Bloodline",
-    "name": "Ara Mitama"
+    "name": "Ara Mitama",
+    "st": 20,
+    "ma": 18,
+    "en": 20,
+    "ag": 20,
+    "lu": 19
   },
   {
     "inherits": "ailment",
     "lvl": 35,
     "race": "Hermit",
     "resists": "rr----wwss",
-    "stats": [
-      21,
-      23,
-      22,
-      24,
-      22
-    ],
     "trait": "Immunity",
-    "name": "Arahabaki"
+    "name": "Arahabaki",
+    "st": 21,
+    "ma": 23,
+    "en": 22,
+    "ag": 24,
+    "lu": 22
   },
   {
     "inherits": "bless",
     "lvl": 14,
     "race": "Justice",
     "resists": "----w---nw",
-    "stats": [
-      11,
-      9,
-      10,
-      12,
-      7
-    ],
     "trait": "Skillful Combo",
-    "name": "Archangel"
+    "name": "Archangel",
+    "st": 11,
+    "ma": 9,
+    "en": 10,
+    "ag": 12,
+    "lu": 7
   },
   {
     "inherits": "almighty",
     "lvl": 84,
     "race": "Temperance",
     "resists": "s--nn-----",
-    "stats": [
-      54,
-      56,
-      55,
-      54,
-      40
-    ],
     "trait": "Naranari",
-    "name": "Ardha"
+    "name": "Ardha",
+    "st": 54,
+    "ma": 56,
+    "en": 55,
+    "ag": 54,
+    "lu": 40
   },
   {
     "inherits": "curse",
     "lvl": 1,
     "race": "Fool",
     "resists": "---w----ws",
-    "stats": [
-      2,
-      2,
-      2,
-      3,
-      1
-    ],
     "trait": "Pinch Anchor",
-    "name": "Arsene"
+    "name": "Arsene",
+    "st": 2,
+    "ma": 2,
+    "en": 2,
+    "ag": 3,
+    "lu": 1
   },
   {
     "inherits": "nuke",
     "lvl": 76,
     "race": "Sun",
     "resists": "--n---wr--",
-    "stats": [
-      52,
-      48,
-      51,
-      49,
-      35
-    ],
     "trait": "Atomic Hellscape",
-    "name": "Asura"
+    "name": "Asura",
+    "st": 52,
+    "ma": 48,
+    "en": 51,
+    "ag": 49,
+    "lu": 35
   },
   {
     "inherits": "phys",
     "lvl": 65,
     "race": "Faith",
     "resists": "snr------s",
-    "stats": [
-      51,
-      36,
-      43,
-      38,
-      34
-    ],
     "trait": "Savior Bloodline",
-    "name": "Atavaka"
+    "name": "Atavaka",
+    "st": 51,
+    "ma": 36,
+    "en": 43,
+    "ag": 38,
+    "lu": 34
   },
   {
     "inherits": "elec",
     "lvl": 39,
     "race": "Fortune",
     "resists": "--w--n----",
-    "stats": [
-      23,
-      30,
-      22,
-      27,
-      22
-    ],
     "trait": "Mighty Gaze",
-    "name": "Atropos"
+    "name": "Atropos",
+    "st": 23,
+    "ma": 30,
+    "en": 22,
+    "ag": 27,
+    "lu": 22
   },
   {
     "inherits": "fire",
     "lvl": 82,
     "race": "Hanged",
     "resists": "--n--r---w",
-    "stats": [
-      49,
-      50,
-      48,
-      54,
-      52
-    ],
     "trait": "Vitality of the Tree",
-    "name": "Attis"
+    "name": "Attis",
+    "st": 49,
+    "ma": 50,
+    "en": 48,
+    "ag": 54,
+    "lu": 52
   },
   {
     "inherits": "wind",
     "lvl": 82,
     "race": "Emperor",
     "resists": "--s--d--s-",
-    "stats": [
-      54,
-      58,
-      53,
-      47,
-      41
-    ],
     "trait": "Wind Bloodline",
-    "name": "Baal"
+    "name": "Baal",
+    "st": 54,
+    "ma": 58,
+    "en": 53,
+    "ag": 47,
+    "lu": 41
   },
   {
     "inherits": "almighty",
     "lvl": 58,
     "race": "Devil",
     "resists": "--s-----wn",
-    "stats": [
-      34,
-      42,
-      36,
-      38,
-      31
-    ],
     "trait": "Thermal Conduct",
-    "name": "Baphomet"
+    "name": "Baphomet",
+    "st": 34,
+    "ma": 42,
+    "en": 36,
+    "ag": 38,
+    "lu": 31
   },
   {
     "inherits": "elec",
     "lvl": 52,
     "race": "Emperor",
     "resists": "-s--sw--nw",
-    "stats": [
-      33,
-      35,
-      33,
-      37,
-      25
-    ],
     "trait": "Blessed Bloodline",
-    "name": "Barong"
+    "name": "Barong",
+    "st": 33,
+    "ma": 35,
+    "en": 33,
+    "ag": 37,
+    "lu": 25
   },
   {
     "inherits": "curse",
     "lvl": 87,
     "race": "Devil",
     "resists": "--d-----wr",
-    "stats": [
-      55,
-      61,
-      54,
-      56,
-      42
-    ],
     "trait": "Mother's Lament",
-    "name": "Beelzebub"
+    "name": "Beelzebub",
+    "st": 55,
+    "ma": 61,
+    "en": 54,
+    "ag": 56,
+    "lu": 42
   },
   {
     "inherits": "curse",
     "lvl": 82,
     "race": "Devil",
     "resists": "n--s-----n",
-    "stats": [
-      52,
-      53,
-      51,
-      48,
-      49
-    ],
     "trait": "Bloodstained Eyes",
-    "name": "Belial"
+    "name": "Belial",
+    "st": 52,
+    "ma": 53,
+    "en": 51,
+    "ag": 48,
+    "lu": 49
   },
   {
     "inherits": "ice",
     "lvl": 37,
     "race": "Tower",
     "resists": "--wss--s-r",
-    "stats": [
-      25,
-      27,
-      24,
-      23,
-      19
-    ],
     "trait": "Intense Focus",
-    "name": "Belphegor"
+    "name": "Belphegor",
+    "st": 25,
+    "ma": 27,
+    "en": 24,
+    "ag": 23,
+    "lu": 19
   },
   {
     "inherits": "phys",
     "lvl": 9,
     "race": "Hierophant",
     "resists": "-nsw------",
-    "stats": [
-      9,
-      6,
-      8,
-      8,
-      3
-    ],
     "trait": "Crisis Control",
-    "name": "Berith"
+    "name": "Berith",
+    "st": 9,
+    "ma": 6,
+    "en": 8,
+    "ag": 8,
+    "lu": 3
   },
   {
     "inherits": "wind",
     "lvl": 4,
     "race": "Hermit",
     "resists": "----w----s",
-    "stats": [
-      5,
-      3,
-      3,
-      5,
-      3
-    ],
     "trait": "Striking Weight",
-    "name": "Bicorn"
+    "name": "Bicorn",
+    "st": 5,
+    "ma": 3,
+    "en": 3,
+    "ag": 5,
+    "lu": 3
   },
   {
     "inherits": "nuke",
     "lvl": 67,
     "race": "Hierophant",
     "resists": "--dw----ss",
-    "stats": [
-      51,
-      37,
-      42,
-      44,
-      34
-    ],
     "trait": "Savior Bloodline",
-    "name": "Bishamonten"
+    "name": "Bishamonten",
+    "st": 51,
+    "ma": 37,
+    "en": 42,
+    "ag": 44,
+    "lu": 34
   },
   {
     "inherits": "almighty",
     "lvl": 67,
     "race": "Fool",
     "resists": "--rd---n-r",
-    "stats": [
-      44,
-      46,
-      41,
-      42,
-      35
-    ],
     "trait": "Frigid Bloodline",
-    "name": "Black Frost"
+    "name": "Black Frost",
+    "st": 44,
+    "ma": 46,
+    "en": 41,
+    "ag": 42,
+    "lu": 35
   },
   {
     "inherits": "curse",
     "lvl": 18,
     "race": "Moon",
     "resists": "ss-sw-w-wn",
-    "stats": [
-      15,
-      7,
-      16,
-      8,
-      15
-    ],
     "trait": "Rare Antibody",
-    "name": "Black Ooze"
+    "name": "Black Ooze",
+    "st": 15,
+    "ma": 7,
+    "en": 16,
+    "ag": 8,
+    "lu": 15
   },
   {
     "inherits": "curse",
     "lvl": 59,
     "race": "Tower",
     "resists": "--wd----ss",
-    "stats": [
-      36,
-      42,
-      34,
-      42,
-      30
-    ],
     "trait": "Gloomy Child",
-    "name": "Black Rider"
+    "name": "Black Rider",
+    "st": 36,
+    "ma": 42,
+    "en": 34,
+    "ag": 42,
+    "lu": 30
   },
   {
     "inherits": "almighty",
     "lvl": 49,
     "race": "Fool",
     "resists": "------sw-n",
-    "stats": [
-      35,
-      33,
-      30,
-      32,
-      24
-    ],
     "trait": "Potent Hypnosis",
-    "name": "Bugs"
+    "name": "Bugs",
+    "st": 35,
+    "ma": 33,
+    "en": 30,
+    "ag": 32,
+    "lu": 24
   },
   {
     "inherits": "fire",
     "lvl": 70,
     "race": "Moon",
     "resists": "--nw-n-w-n",
-    "stats": [
-      42,
-      49,
-      43,
-      51,
-      32
-    ],
     "trait": "Heated Bloodline",
-    "name": "Byakhee"
+    "name": "Byakhee",
+    "st": 42,
+    "ma": 49,
+    "en": 43,
+    "ag": 51,
+    "lu": 32
   },
   {
     "inherits": "ice",
     "lvl": 45,
     "race": "Temperance",
     "resists": "--wd---w-s",
-    "stats": [
-      35,
-      28,
-      30,
-      32,
-      17
-    ],
     "trait": "Retaliating Body",
-    "name": "Byakko"
+    "name": "Byakko",
+    "st": 35,
+    "ma": 28,
+    "en": 30,
+    "ag": 32,
+    "lu": 17
   },
   {
     "inherits": "ailment",
     "lvl": 5,
     "race": "Magician",
     "resists": "----sw----",
-    "stats": [
-      6,
-      4,
-      4,
-      5,
-      3
-    ],
     "trait": "Thermal Conduct",
-    "name": "Cait Sith"
+    "name": "Cait Sith",
+    "st": 6,
+    "ma": 4,
+    "en": 4,
+    "ag": 5,
+    "lu": 3
   },
   {
     "inherits": "fire",
     "lvl": 55,
     "race": "Chariot",
     "resists": "--dw---s--",
-    "stats": [
-      39,
-      35,
-      32,
-      39,
-      27
-    ],
     "trait": "Heated Bloodline",
-    "name": "Cerberus"
+    "name": "Cerberus",
+    "st": 39,
+    "ma": 35,
+    "en": 32,
+    "ag": 39,
+    "lu": 27
   },
   {
     "inherits": "ailment",
     "lvl": 62,
     "race": "Death",
     "resists": "-swdn---wd",
-    "stats": [
-      40,
-      37,
-      39,
-      38,
-      39
-    ],
     "trait": "Crisis Control",
-    "name": "Chernobog"
+    "name": "Chernobog",
+    "st": 40,
+    "ma": 37,
+    "en": 39,
+    "ag": 38,
+    "lu": 39
   },
   {
     "inherits": "psy",
     "lvl": 88,
     "race": "Chariot",
     "resists": "ss----nw--",
-    "stats": [
-      56,
-      57,
-      54,
-      53,
-      51
-    ],
     "trait": "Chi You's Blessing",
-    "name": "Chi You"
+    "name": "Chi You",
+    "st": 56,
+    "ma": 57,
+    "en": 54,
+    "ag": 53,
+    "lu": 51
   },
   {
     "inherits": "phys",
     "lvl": 74,
     "race": "Strength",
     "resists": "--dn-w---w",
-    "stats": [
-      51,
-      40,
-      42,
-      48,
-      48
-    ],
     "trait": "Foul Stench",
-    "name": "Chimera"
+    "name": "Chimera",
+    "st": 51,
+    "ma": 40,
+    "en": 42,
+    "ag": 48,
+    "lu": 48
   },
   {
     "inherits": "curse",
     "lvl": 28,
     "race": "Magician",
     "resists": "s-d-----w-",
-    "stats": [
-      16,
-      19,
-      19,
-      18,
-      19
-    ],
     "trait": "Draining Mouth",
-    "name": "Choronzon"
+    "name": "Choronzon",
+    "st": 16,
+    "ma": 19,
+    "en": 19,
+    "ag": 18,
+    "lu": 19
   },
   {
     "inherits": "healing",
     "lvl": 27,
     "race": "Fortune",
     "resists": "---w-n-w--",
-    "stats": [
-      14,
-      19,
-      18,
-      20,
-      17
-    ],
     "trait": "Relief Bloodline",
-    "name": "Clotho"
+    "name": "Clotho",
+    "st": 14,
+    "ma": 19,
+    "en": 18,
+    "ag": 20,
+    "lu": 17
   },
   {
     "inherits": "almighty",
     "lvl": 50,
     "race": "Fool",
     "resists": "ss---w----",
-    "stats": [
-      50,
-      50,
-      50,
-      50,
-      50
-    ],
     "trait": "Ultimate Vessel",
-    "name": "Crystal Skull"
+    "name": "Crystal Skull",
+    "st": 50,
+    "ma": 50,
+    "en": 50,
+    "ag": 50,
+    "lu": 50
   },
   {
     "inherits": "almighty",
     "lvl": 76,
     "race": "Faith",
     "resists": "ss--wr--n-",
-    "stats": [
-      55,
-      44,
-      46,
-      48,
-      42
-    ],
     "trait": "Potent Hypnosis",
-    "name": "Cu Chulainn"
+    "name": "Cu Chulainn",
+    "st": 55,
+    "ma": 44,
+    "en": 46,
+    "ag": 48,
+    "lu": 42
   },
   {
     "inherits": "healing",
     "lvl": 83,
     "race": "Priestess",
     "resists": "--s-w---n-",
-    "stats": [
-      44,
-      57,
-      49,
-      51,
-      55
-    ],
     "trait": "Linked Bloodline",
-    "name": "Cybele"
+    "name": "Cybele",
+    "st": 44,
+    "ma": 57,
+    "en": 49,
+    "ag": 51,
+    "lu": 55
   },
   {
     "inherits": "bless",
     "lvl": 40,
     "race": "Hierophant",
     "resists": "s-------nw",
-    "stats": [
-      21,
-      33,
-      24,
-      24,
-      25
-    ],
     "trait": "Draining Mouth",
-    "name": "Daisoujou"
+    "name": "Daisoujou",
+    "st": 21,
+    "ma": 33,
+    "en": 24,
+    "ag": 24,
+    "lu": 25
   },
   {
     "inherits": "phys",
     "lvl": 50,
     "race": "Empress",
     "resists": "-ns-------",
-    "stats": [
-      34,
-      32,
-      34,
-      28,
-      29
-    ],
     "trait": "Skillful Combo",
-    "name": "Dakini"
+    "name": "Dakini",
+    "st": 34,
+    "ma": 32,
+    "en": 34,
+    "ag": 28,
+    "lu": 29
   },
   {
     "inherits": "fire",
     "lvl": 32,
     "race": "Councillor",
     "resists": "w-r----s-s",
-    "stats": [
-      21,
-      23,
-      19,
-      22,
-      18
-    ],
     "trait": "Heated Bloodline",
-    "name": "Decarabia"
+    "name": "Decarabia",
+    "st": 21,
+    "ma": 23,
+    "en": 19,
+    "ag": 22,
+    "lu": 18
   },
   {
     "inherits": "ailment",
     "lvl": 71,
     "race": "Councillor",
     "resists": "----r---nn",
-    "stats": [
-      42,
-      48,
-      44,
-      42,
-      44
-    ],
     "trait": "Pinch Anchor",
-    "name": "Dionysus"
+    "name": "Dionysus",
+    "st": 42,
+    "ma": 48,
+    "en": 44,
+    "ag": 42,
+    "lu": 44
   },
   {
     "inherits": "bless",
     "lvl": 68,
     "race": "Justice",
     "resists": "----w--rns",
-    "stats": [
-      42,
-      45,
-      43,
-      44,
-      37
-    ],
     "trait": "Blessed Bloodline",
-    "name": "Dominion"
+    "name": "Dominion",
+    "st": 42,
+    "ma": 45,
+    "en": 43,
+    "ag": 44,
+    "lu": 37
   },
   {
     "inherits": "fire",
     "lvl": 16,
     "race": "Emperor",
     "resists": "--s-w----s",
-    "stats": [
-      12,
-      10,
-      13,
-      10,
-      10
-    ],
     "trait": "Thermal Conduct",
-    "name": "Eligor"
+    "name": "Eligor",
+    "st": 12,
+    "ma": 10,
+    "en": 13,
+    "ag": 10,
+    "lu": 10
   },
   {
     "inherits": "almighty",
     "lvl": 35,
     "race": "Hanged",
     "resists": "ss--w-----",
-    "stats": [
-      35,
-      35,
-      35,
-      35,
-      35
-    ],
     "trait": "Ultimate Vessel",
-    "name": "Emperor's Amulet"
+    "name": "Emperor's Amulet",
+    "st": 35,
+    "ma": 35,
+    "en": 35,
+    "ag": 35,
+    "lu": 35
   },
   {
     "inherits": "nuke",
     "lvl": 86,
     "race": "Hermit",
     "resists": "rrd-s--d--",
-    "stats": [
-      61,
-      55,
-      58,
-      48,
-      43
-    ],
     "trait": "Ailment Hunter",
-    "name": "Fafnir"
+    "name": "Fafnir",
+    "st": 61,
+    "ma": 55,
+    "en": 58,
+    "ag": 48,
+    "lu": 43
   },
   {
     "inherits": "ailment",
     "lvl": 19,
     "race": "Devil",
     "resists": "--nw-s-s--",
-    "stats": [
-      15,
-      11,
-      13,
-      14,
-      11
-    ],
     "trait": "Gluttonmouth",
-    "name": "Flauros"
+    "name": "Flauros",
+    "st": 15,
+    "ma": 11,
+    "en": 13,
+    "ag": 14,
+    "lu": 11
   },
   {
     "inherits": "psy",
     "lvl": 63,
     "race": "Magician",
     "resists": "---dw-n---",
-    "stats": [
-      41,
-      39,
-      40,
-      42,
-      34
-    ],
     "trait": "Bloodstained Eyes",
-    "name": "Forneus"
+    "name": "Forneus",
+    "st": 41,
+    "ma": 39,
+    "en": 40,
+    "ag": 42,
+    "lu": 34
   },
   {
     "inherits": "wind",
     "lvl": 46,
     "race": "Fortune",
     "resists": "--n-wn----",
-    "stats": [
-      23,
-      32,
-      29,
-      34,
-      27
-    ],
     "trait": "Wind Bloodline",
-    "name": "Fortuna"
+    "name": "Fortuna",
+    "st": 23,
+    "ma": 32,
+    "en": 29,
+    "ag": 34,
+    "lu": 27
   },
   {
     "inherits": "phys",
     "lvl": 86,
     "race": "Magician",
     "resists": "s------w--",
-    "stats": [
-      60,
-      58,
-      55,
-      52,
-      40
-    ],
     "trait": "Will of the Sword",
-    "name": "Futsunushi"
+    "name": "Futsunushi",
+    "st": 60,
+    "ma": 58,
+    "en": 55,
+    "ag": 52,
+    "lu": 40
   },
   {
     "inherits": "wind",
     "lvl": 23,
     "race": "Star",
     "resists": "-s--wd----",
-    "stats": [
-      14,
-      17,
-      16,
-      15,
-      14
-    ],
     "trait": "Intense Focus",
-    "name": "Fuu-Ki"
+    "name": "Fuu-Ki",
+    "st": 14,
+    "ma": 17,
+    "en": 16,
+    "ag": 15,
+    "lu": 14
   },
   {
     "inherits": "almighty",
     "lvl": 77,
     "race": "Temperance",
     "resists": "------n-d-",
-    "stats": [
-      43,
-      51,
-      48,
-      54,
-      42
-    ],
     "trait": "Relentless",
-    "name": "Gabriel"
+    "name": "Gabriel",
+    "st": 43,
+    "ma": 51,
+    "en": 48,
+    "ag": 54,
+    "lu": 42
   },
   {
     "inherits": "ailment",
     "lvl": 53,
     "race": "Sun",
     "resists": "ss---dw---",
-    "stats": [
-      39,
-      31,
-      37,
-      33,
-      26
-    ],
     "trait": "Gluttonmouth",
-    "name": "Ganesha"
+    "name": "Ganesha",
+    "st": 39,
+    "ma": 31,
+    "en": 37,
+    "ag": 33,
+    "lu": 26
   },
   {
     "inherits": "wind",
     "lvl": 52,
     "race": "Star",
     "resists": "-----s--r-",
-    "stats": [
-      30,
-      36,
-      29,
-      39,
-      29
-    ],
     "trait": "Wind Bloodline",
-    "name": "Garuda"
+    "name": "Garuda",
+    "st": 30,
+    "ma": 36,
+    "en": 29,
+    "ag": 39,
+    "lu": 29
   },
   {
     "inherits": "ice",
     "lvl": 7,
     "race": "Temperance",
     "resists": "---nw-s---",
-    "stats": [
-      5,
-      6,
-      7,
-      6,
-      4
-    ],
     "trait": "Cold-Blooded",
-    "name": "Genbu"
+    "name": "Genbu",
+    "st": 5,
+    "ma": 6,
+    "en": 7,
+    "ag": 6,
+    "lu": 4
   },
   {
     "inherits": "ailment",
     "lvl": 43,
     "race": "Moon",
     "resists": "rrs-----wn",
-    "stats": [
-      32,
-      24,
-      32,
-      29,
-      19
-    ],
     "trait": "Cursed Bloodline",
-    "name": "Girimehkala"
+    "name": "Girimehkala",
+    "st": 32,
+    "ma": 24,
+    "en": 32,
+    "ag": 29,
+    "lu": 19
   },
   {
     "inherits": "phys",
     "lvl": 64,
     "race": "Strength",
     "resists": "-s-w--s-s-",
-    "stats": [
-      43,
-      38,
-      40,
-      40,
-      38
-    ],
     "trait": "Potent Hypnosis",
-    "name": "Hanuman"
+    "name": "Hanuman",
+    "st": 43,
+    "ma": 38,
+    "en": 40,
+    "ag": 40,
+    "lu": 38
   },
   {
     "inherits": "elec",
     "lvl": 40,
     "race": "Empress",
     "resists": "-----ws-s-",
-    "stats": [
-      21,
-      32,
-      24,
-      23,
-      27
-    ],
     "trait": "Electric Bloodline",
-    "name": "Hariti"
+    "name": "Hariti",
+    "st": 21,
+    "ma": 32,
+    "en": 24,
+    "ag": 23,
+    "lu": 27
   },
   {
     "inherits": "wind",
     "lvl": 84,
     "race": "Star",
     "resists": "--s--dn--n",
-    "stats": [
-      51,
-      59,
-      52,
-      56,
-      41
-    ],
     "trait": "Mouth of Savoring",
-    "name": "Hastur"
+    "name": "Hastur",
+    "st": 51,
+    "ma": 59,
+    "en": 52,
+    "ag": 56,
+    "lu": 41
   },
   {
     "inherits": "psy",
     "lvl": 42,
     "race": "Hanged",
     "resists": "-s------wn",
-    "stats": [
-      35,
-      22,
-      27,
-      23,
-      26
-    ],
     "trait": "Gluttonmouth",
-    "name": "Hecatoncheires"
+    "name": "Hecatoncheires",
+    "st": 35,
+    "ma": 22,
+    "en": 27,
+    "ag": 23,
+    "lu": 26
   },
   {
     "inherits": "fire",
     "lvl": 37,
     "race": "Death",
     "resists": "--r--s--w-",
-    "stats": [
-      23,
-      24,
-      24,
-      30,
-      17
-    ],
     "trait": "Internal Hypnosis",
-    "name": "Hell Biker"
+    "name": "Hell Biker",
+    "st": 23,
+    "ma": 24,
+    "en": 24,
+    "ag": 30,
+    "lu": 17
   },
   {
     "inherits": "healing",
     "lvl": 16,
     "race": "Fool",
     "resists": "-w--ss-w--",
-    "stats": [
-      8,
-      14,
-      10,
-      13,
-      10
-    ],
     "trait": "Skillful Combo",
-    "name": "High Pixie"
+    "name": "High Pixie",
+    "st": 8,
+    "ma": 14,
+    "en": 10,
+    "ag": 13,
+    "lu": 10
   },
   {
     "inherits": "almighty",
     "lvl": 40,
     "race": "Death",
     "resists": "ss-w------",
-    "stats": [
-      40,
-      40,
-      40,
-      40,
-      40
-    ],
     "trait": "Ultimate Vessel",
-    "name": "Hope Diamond"
+    "name": "Hope Diamond",
+    "st": 40,
+    "ma": 40,
+    "en": 40,
+    "ag": 40,
+    "lu": 40
   },
   {
     "inherits": "almighty",
     "lvl": 47,
     "race": "Sun",
     "resists": "--w-n---r-",
-    "stats": [
-      30,
-      32,
-      29,
-      35,
-      22
-    ],
     "trait": "Potent Hypnosis",
-    "name": "Horus"
+    "name": "Horus",
+    "st": 30,
+    "ma": 32,
+    "en": 29,
+    "ag": 35,
+    "lu": 22
   },
   {
     "inherits": "fire",
     "lvl": 9,
     "race": "Hanged",
     "resists": "-wrw------",
-    "stats": [
-      4,
-      10,
-      4,
-      8,
-      8
-    ],
     "trait": "Thermal Conduct",
-    "name": "Hua Po"
+    "name": "Hua Po",
+    "st": 4,
+    "ma": 10,
+    "en": 4,
+    "ag": 8,
+    "lu": 8
   },
   {
     "inherits": "ailment",
     "lvl": 5,
     "race": "Devil",
     "resists": "--w-s---w-",
-    "stats": [
-      4,
-      6,
-      4,
-      5,
-      3
-    ],
     "trait": "Draining Mouth",
-    "name": "Incubus"
+    "name": "Incubus",
+    "st": 4,
+    "ma": 6,
+    "en": 4,
+    "ag": 5,
+    "lu": 3
   },
   {
     "inherits": "fire",
     "lvl": 14,
     "race": "Hanged",
     "resists": "-nn--w---n",
-    "stats": [
-      11,
-      9,
-      9,
-      12,
-      8
-    ],
     "trait": "Foul Odor",
-    "name": "Inugami"
+    "name": "Inugami",
+    "st": 11,
+    "ma": 9,
+    "en": 9,
+    "ag": 12,
+    "lu": 8
   },
   {
     "inherits": "phys",
     "lvl": 13,
     "race": "Hermit",
     "resists": "-ssw-r--ss",
-    "stats": [
-      11,
-      7,
-      14,
-      6,
-      8
-    ],
     "trait": "Striking Weight",
-    "name": "Ippon-Datara"
+    "name": "Ippon-Datara",
+    "st": 11,
+    "ma": 7,
+    "en": 14,
+    "ag": 6,
+    "lu": 8
   },
   {
     "inherits": "healing",
     "lvl": 85,
     "race": "Lovers",
     "resists": "----nw----",
-    "stats": [
-      48,
-      59,
-      49,
-      58,
-      48
-    ],
     "trait": "Grace of Mother",
-    "name": "Ishtar"
+    "name": "Ishtar",
+    "st": 48,
+    "ma": 59,
+    "en": 49,
+    "ag": 58,
+    "lu": 48
   },
   {
     "inherits": "healing",
     "lvl": 26,
     "race": "Priestess",
     "resists": "------w-n-",
-    "stats": [
-      14,
-      20,
-      17,
-      18,
-      16
-    ],
     "trait": "Savior Bloodline",
-    "name": "Isis"
+    "name": "Isis",
+    "st": 14,
+    "ma": 20,
+    "en": 17,
+    "ag": 18,
+    "lu": 16
   },
   {
     "inherits": "ice",
     "lvl": 11,
     "race": "Magician",
     "resists": "--wn------",
-    "stats": [
-      8,
-      9,
-      7,
-      9,
-      7
-    ],
     "trait": "Frigid Bloodline",
-    "name": "Jack Frost"
+    "name": "Jack Frost",
+    "st": 8,
+    "ma": 9,
+    "en": 7,
+    "ag": 9,
+    "lu": 7
   },
   {
     "inherits": "fire",
     "lvl": 2,
     "race": "Magician",
     "resists": "--dw-w----",
-    "stats": [
-      2,
-      3,
-      3,
-      3,
-      2
-    ],
     "trait": "Thermal Conduct",
-    "name": "Jack-o'-Lantern"
+    "name": "Jack-o'-Lantern",
+    "st": 2,
+    "ma": 3,
+    "en": 3,
+    "ag": 3,
+    "lu": 2
   },
   {
     "inherits": "wind",
     "lvl": 51,
     "race": "Hanged",
     "resists": "---s-r-ws-",
-    "stats": [
-      31,
-      34,
-      29,
-      36,
-      30
-    ],
     "trait": "Wind Bloodline",
-    "name": "Jatayu"
+    "name": "Jatayu",
+    "st": 31,
+    "ma": 34,
+    "en": 29,
+    "ag": 36,
+    "lu": 30
   },
   {
     "inherits": "phys",
     "lvl": 22,
     "race": "Temperance",
     "resists": "s-------sw",
-    "stats": [
-      18,
-      11,
-      16,
-      15,
-      13
-    ],
     "trait": "Internal Hypnosis",
-    "name": "Jikokuten"
+    "name": "Jikokuten",
+    "st": 18,
+    "ma": 11,
+    "en": 16,
+    "ag": 15,
+    "lu": 13
   },
   {
     "inherits": "almighty",
     "lvl": 36,
     "race": "Star",
     "resists": "-n----nw--",
-    "stats": [
-      23,
-      26,
-      24,
-      22,
-      20
-    ],
     "trait": "Psychic Bloodline",
-    "name": "Kaiwan"
+    "name": "Kaiwan",
+    "st": 23,
+    "ma": 26,
+    "en": 24,
+    "ag": 22,
+    "lu": 20
   },
   {
     "inherits": "fire",
     "lvl": 63,
     "race": "Empress",
     "resists": "-rn---r--s",
-    "stats": [
-      43,
-      41,
-      39,
-      39,
-      34
-    ],
     "trait": "Relentless",
-    "name": "Kali"
+    "name": "Kali",
+    "st": 43,
+    "ma": 41,
+    "en": 39,
+    "ag": 39,
+    "lu": 34
   },
   {
     "inherits": "wind",
     "lvl": 6,
     "race": "Strength",
     "resists": "---sw-----",
-    "stats": [
-      5,
-      5,
-      5,
-      6,
-      4
-    ],
     "trait": "Striking Weight",
-    "name": "Kelpie"
+    "name": "Kelpie",
+    "st": 5,
+    "ma": 5,
+    "en": 5,
+    "ag": 6,
+    "lu": 4
   },
   {
     "inherits": "healing",
     "lvl": 40,
     "race": "Priestess",
     "resists": "--w--n--s-",
-    "stats": [
-      22,
-      31,
-      24,
-      28,
-      22
-    ],
     "trait": "Relief Bloodline",
-    "name": "Kikuri-Hime"
+    "name": "Kikuri-Hime",
+    "st": 22,
+    "ma": 31,
+    "en": 24,
+    "ag": 28,
+    "lu": 22
   },
   {
     "inherits": "phys",
     "lvl": 25,
     "race": "Chariot",
     "resists": "sr--------",
-    "stats": [
-      21,
-      13,
-      21,
-      15,
-      12
-    ],
     "trait": "Retaliating Body",
-    "name": "Kin-Ki"
+    "name": "Kin-Ki",
+    "st": 21,
+    "ma": 13,
+    "en": 21,
+    "ag": 15,
+    "lu": 12
   },
   {
     "inherits": "ice",
     "lvl": 61,
     "race": "Emperor",
     "resists": "---d----n-",
-    "stats": [
-      40,
-      44,
-      43,
-      29,
-      34
-    ],
     "trait": "Frigid Bloodline",
-    "name": "King Frost"
+    "name": "King Frost",
+    "st": 40,
+    "ma": 44,
+    "en": 43,
+    "ag": 29,
+    "lu": 34
   },
   {
     "inherits": "ailment",
     "lvl": 11,
     "race": "Star",
     "resists": "--ws------",
-    "stats": [
-      7,
-      11,
-      8,
-      10,
-      4
-    ],
     "trait": "Skillful Combo",
-    "name": "Kodama"
+    "name": "Kodama",
+    "st": 7,
+    "ma": 11,
+    "en": 8,
+    "ag": 10,
+    "lu": 4
   },
   {
     "inherits": "almighty",
     "lvl": 25,
     "race": "Priestess",
     "resists": "sw--------",
-    "stats": [
-      25,
-      25,
-      25,
-      25,
-      25
-    ],
     "trait": "Ultimate Vessel",
-    "name": "Koh-i-Noor"
+    "name": "Koh-i-Noor",
+    "st": 25,
+    "ma": 25,
+    "en": 25,
+    "ag": 25,
+    "lu": 25
   },
   {
     "inherits": "psy",
     "lvl": 76,
     "race": "Hierophant",
     "resists": "----r-nwn-",
-    "stats": [
-      43,
-      51,
-      50,
-      53,
-      38
-    ],
     "trait": "Universal Law",
-    "name": "Kohryu"
+    "name": "Kohryu",
+    "st": 43,
+    "ma": 51,
+    "en": 50,
+    "ag": 53,
+    "lu": 38
   },
   {
     "inherits": "wind",
     "lvl": 11,
     "race": "Temperance",
     "resists": "---w-s--w-",
-    "stats": [
-      7,
-      8,
-      8,
-      11,
-      6
-    ],
     "trait": "Intense Focus",
-    "name": "Koppa Tengu"
+    "name": "Koppa Tengu",
+    "st": 7,
+    "ma": 8,
+    "en": 8,
+    "ag": 11,
+    "lu": 6
   },
   {
     "inherits": "ice",
     "lvl": 9,
     "race": "Hermit",
     "resists": "--ws-s----",
-    "stats": [
-      5,
-      8,
-      6,
-      9,
-      6
-    ],
     "trait": "Foul Odor",
-    "name": "Koropokkuru"
+    "name": "Koropokkuru",
+    "st": 5,
+    "ma": 8,
+    "en": 6,
+    "ag": 9,
+    "lu": 6
   },
   {
     "inherits": "phys",
     "lvl": 49,
     "race": "Hermit",
     "resists": "s--w----s-",
-    "stats": [
-      37,
-      29,
-      34,
-      29,
-      25
-    ],
     "trait": "Gluttonmouth",
-    "name": "Koumokuten"
+    "name": "Koumokuten",
+    "st": 37,
+    "ma": 29,
+    "en": 34,
+    "ag": 29,
+    "lu": 25
   },
   {
     "inherits": "ailment",
     "lvl": 42,
     "race": "Hermit",
     "resists": "--n---w--s",
-    "stats": [
-      25,
-      30,
-      25,
-      27,
-      26
-    ],
     "trait": "Rare Antibody",
-    "name": "Kumbhanda"
+    "name": "Kumbhanda",
+    "st": 25,
+    "ma": 30,
+    "en": 25,
+    "ag": 27,
+    "lu": 26
   },
   {
     "inherits": "wind",
     "lvl": 31,
     "race": "Hermit",
     "resists": "---n-r--ss",
-    "stats": [
-      20,
-      19,
-      21,
-      24,
-      16
-    ],
     "trait": "Skillful Combo",
-    "name": "Kurama Tengu"
+    "name": "Kurama Tengu",
+    "st": 20,
+    "ma": 19,
+    "en": 21,
+    "ag": 24,
+    "lu": 16
   },
   {
     "inherits": "healing",
     "lvl": 42,
     "race": "Lovers",
     "resists": "---w---wr-",
-    "stats": [
-      24,
-      30,
-      26,
-      28,
-      25
-    ],
     "trait": "Savior Bloodline",
-    "name": "Kushinada"
+    "name": "Kushinada",
+    "st": 24,
+    "ma": 30,
+    "en": 26,
+    "ag": 28,
+    "lu": 25
   },
   {
     "inherits": "healing",
     "lvl": 12,
     "race": "Councillor",
     "resists": "--w--s----",
-    "stats": [
-      7,
-      11,
-      9,
-      8,
-      8
-    ],
     "trait": "Gluttonmouth",
-    "name": "Kusi Mitama"
+    "name": "Kusi Mitama",
+    "st": 7,
+    "ma": 11,
+    "en": 9,
+    "ag": 8,
+    "lu": 8
   },
   {
     "inherits": "ice",
     "lvl": 35,
     "race": "Fortune",
     "resists": "---nws----",
-    "stats": [
-      18,
-      26,
-      22,
-      25,
-      21
-    ],
     "trait": "Internal Hypnosis",
-    "name": "Lachesis"
+    "name": "Lachesis",
+    "st": 18,
+    "ma": 26,
+    "en": 22,
+    "ag": 25,
+    "lu": 21
   },
   {
     "inherits": "healing",
     "lvl": 69,
     "race": "Fortune",
     "resists": "--ws----s-",
-    "stats": [
-      39,
-      49,
-      41,
-      47,
-      38
-    ],
     "trait": "Wealth of Lotus",
-    "name": "Lakshmi"
+    "name": "Lakshmi",
+    "st": 39,
+    "ma": 49,
+    "en": 41,
+    "ag": 47,
+    "lu": 38
   },
   {
     "inherits": "fire",
     "lvl": 26,
     "race": "Empress",
     "resists": "---ws--w-n",
-    "stats": [
-      21,
-      15,
-      18,
-      19,
-      12
-    ],
     "trait": "Foul Odor",
-    "name": "Lamia"
+    "name": "Lamia",
+    "st": 21,
+    "ma": 15,
+    "en": 18,
+    "ag": 19,
+    "lu": 12
   },
   {
     "inherits": "almighty",
     "lvl": 19,
     "race": "Lovers",
     "resists": "--w--ss---",
-    "stats": [
-      9,
-      17,
-      12,
-      16,
-      10
-    ],
     "trait": "Skillful Technique",
-    "name": "Leanan Sidhe"
+    "name": "Leanan Sidhe",
+    "st": 9,
+    "ma": 17,
+    "en": 12,
+    "ag": 16,
+    "lu": 10
   },
   {
     "inherits": "psy",
     "lvl": 38,
     "race": "Fool",
     "resists": "s-s---s-wn",
-    "stats": [
-      24,
-      24,
-      30,
-      23,
-      20
-    ],
     "trait": "Draining Mouth",
-    "name": "Legion"
+    "name": "Legion",
+    "st": 24,
+    "ma": 24,
+    "en": 30,
+    "ag": 23,
+    "lu": 20
   },
   {
     "inherits": "ice",
     "lvl": 32,
     "race": "Devil",
     "resists": "---s-w--wn",
-    "stats": [
-      17,
-      23,
-      18,
-      25,
-      20
-    ],
     "trait": "Cold-Blooded",
-    "name": "Lilim"
+    "name": "Lilim",
+    "st": 17,
+    "ma": 23,
+    "en": 18,
+    "ag": 25,
+    "lu": 20
   },
   {
     "inherits": "almighty",
     "lvl": 60,
     "race": "Moon",
     "resists": "--wr---r-n",
-    "stats": [
-      33,
-      43,
-      37,
-      39,
-      35
-    ],
     "trait": "Mighty Gaze",
-    "name": "Lilith"
+    "name": "Lilith",
+    "st": 33,
+    "ma": 43,
+    "en": 37,
+    "ag": 39,
+    "lu": 35
   },
   {
     "inherits": "curse",
     "lvl": 70,
     "race": "Hermit",
     "resists": "--s-n-wsw-",
-    "stats": [
-      42,
-      47,
-      43,
-      46,
-      39
-    ],
     "trait": "Draining Mouth",
-    "name": "Loa"
+    "name": "Loa",
+    "st": 42,
+    "ma": 47,
+    "en": 43,
+    "ag": 46,
+    "lu": 39
   },
   {
     "inherits": "almighty",
     "lvl": 93,
     "race": "Star",
     "resists": "nnssss--wd",
-    "stats": [
-      61,
-      59,
-      59,
-      56,
-      51
-    ],
     "trait": "Allure of Wisdom",
-    "name": "Lucifer"
+    "name": "Lucifer",
+    "st": 61,
+    "ma": 59,
+    "en": 59,
+    "ag": 56,
+    "lu": 51
   },
   {
     "inherits": "curse",
     "lvl": 73,
     "race": "Hanged",
     "resists": "----s---wn",
-    "stats": [
-      48,
-      49,
-      42,
-      48,
-      39
-    ],
     "trait": "Ailment Hunter",
-    "name": "Macabre"
+    "name": "Macabre",
+    "st": 48,
+    "ma": 49,
+    "en": 42,
+    "ag": 48,
+    "lu": 39
   },
   {
     "inherits": "fire",
     "lvl": 90,
     "race": "Tower",
     "resists": "--dw--sn--",
-    "stats": [
-      55,
-      54,
-      61,
-      59,
-      48
-    ],
     "trait": "Drunken Passion",
-    "name": "Mada"
+    "name": "Mada",
+    "st": 55,
+    "ma": 54,
+    "en": 61,
+    "ag": 59,
+    "lu": 48
   },
   {
     "inherits": "nuke",
     "lvl": 15,
     "race": "Temperance",
     "resists": "-n--ws-sn-",
-    "stats": [
-      13,
-      12,
-      8,
-      11,
-      8
-    ],
     "trait": "Skillful Technique",
-    "name": "Makami"
+    "name": "Makami",
+    "st": 13,
+    "ma": 12,
+    "en": 8,
+    "ag": 11,
+    "lu": 8
   },
   {
     "inherits": "elec",
     "lvl": 3,
     "race": "Death",
     "resists": "--w-s-----",
-    "stats": [
-      2,
-      3,
-      3,
-      4,
-      4
-    ],
     "trait": "Savior Bloodline",
-    "name": "Mandrake"
+    "name": "Mandrake",
+    "st": 2,
+    "ma": 3,
+    "en": 3,
+    "ag": 4,
+    "lu": 4
   },
   {
     "inherits": "psy",
     "lvl": 73,
     "race": "Tower",
     "resists": "-nd---r-sn",
-    "stats": [
-      51,
-      43,
-      43,
-      45,
-      44
-    ],
     "trait": "Mighty Gaze",
-    "name": "Mara"
+    "name": "Mara",
+    "st": 51,
+    "ma": 43,
+    "en": 43,
+    "ag": 45,
+    "lu": 44
   },
   {
     "inherits": "healing",
     "lvl": 93,
     "race": "Faith",
     "resists": "--w-sn--d-",
-    "stats": [
-      52,
-      66,
-      53,
-      54,
-      61
-    ],
     "trait": "Ave Maria",
-    "name": "Maria"
+    "name": "Maria",
+    "st": 52,
+    "ma": 66,
+    "en": 53,
+    "ag": 54,
+    "lu": 61
   },
   {
     "inherits": "psy",
     "lvl": 17,
     "race": "Death",
     "resists": "----wn----",
-    "stats": [
-      11,
-      13,
-      10,
-      16,
-      8
-    ],
     "trait": "Potent Hypnosis",
-    "name": "Matador"
+    "name": "Matador",
+    "st": 11,
+    "ma": 13,
+    "en": 10,
+    "ag": 16,
+    "lu": 8
   },
   {
     "inherits": "bless",
     "lvl": 58,
     "race": "Justice",
     "resists": "-----ws-dn",
-    "stats": [
-      37,
-      32,
-      40,
-      39,
-      33
-    ],
     "trait": "Deathly Illness",
-    "name": "Melchizedek"
+    "name": "Melchizedek",
+    "st": 37,
+    "ma": 32,
+    "en": 40,
+    "ag": 39,
+    "lu": 33
   },
   {
     "inherits": "bless",
     "lvl": 89,
     "race": "Justice",
     "resists": "----wrdd-w",
-    "stats": [
-      54,
-      61,
-      60,
-      57,
-      42
-    ],
     "trait": "Martyr's Gift",
-    "name": "Metatron"
+    "name": "Metatron",
+    "st": 54,
+    "ma": 61,
+    "en": 60,
+    "ag": 57,
+    "lu": 42
   },
   {
     "inherits": "almighty",
     "lvl": 87,
     "race": "Judgement",
     "resists": "-s------rn",
-    "stats": [
-      57,
-      54,
-      55,
-      56,
-      46
-    ],
     "trait": "Potent Hypnosis",
-    "name": "Michael"
+    "name": "Michael",
+    "st": 57,
+    "ma": 54,
+    "en": 55,
+    "ag": 56,
+    "lu": 46
   },
   {
     "inherits": "ailment",
     "lvl": 52,
     "race": "Hierophant",
     "resists": "s--wn----d",
-    "stats": [
-      32,
-      32,
-      32,
-      32,
-      35
-    ],
     "trait": "Ailment Hunter",
-    "name": "Mishaguji"
+    "name": "Mishaguji",
+    "st": 32,
+    "ma": 32,
+    "en": 32,
+    "ag": 32,
+    "lu": 35
   },
   {
     "inherits": "bless",
     "lvl": 33,
     "race": "Temperance",
     "resists": "---nw---n-",
-    "stats": [
-      19,
-      26,
-      19,
-      24,
-      18
-    ],
     "trait": "Blessed Bloodline",
-    "name": "Mithra"
+    "name": "Mithra",
+    "st": 19,
+    "ma": 26,
+    "en": 19,
+    "ag": 24,
+    "lu": 18
   },
   {
     "inherits": "nuke",
     "lvl": 39,
     "race": "Sun",
     "resists": "ssd---wn--",
-    "stats": [
-      27,
-      25,
-      27,
-      25,
-      20
-    ],
     "trait": "Skillful Technique",
-    "name": "Mithras"
+    "name": "Mithras",
+    "st": 27,
+    "ma": 25,
+    "en": 27,
+    "ag": 25,
+    "lu": 20
   },
   {
     "inherits": "ailment",
     "lvl": 9,
     "race": "Death",
     "resists": "----sw----",
-    "stats": [
-      9,
-      5,
-      6,
-      10,
-      4
-    ],
     "trait": "Gloomy Child",
-    "name": "Mokoi"
+    "name": "Mokoi",
+    "st": 9,
+    "ma": 5,
+    "en": 6,
+    "ag": 10,
+    "lu": 4
   },
   {
     "inherits": "fire",
     "lvl": 60,
     "race": "Hanged",
     "resists": "--dwssd--n",
-    "stats": [
-      32,
-      45,
-      42,
-      31,
-      37
-    ],
     "trait": "Immunity",
-    "name": "Moloch"
+    "name": "Moloch",
+    "st": 32,
+    "ma": 45,
+    "en": 42,
+    "ag": 31,
+    "lu": 37
   },
   {
     "inherits": "ailment",
     "lvl": 72,
     "race": "Death",
     "resists": "-s--dw---r",
-    "stats": [
-      43,
-      51,
-      48,
-      42,
-      39
-    ],
     "trait": "Mighty Gaze",
-    "name": "Mot"
+    "name": "Mot",
+    "st": 43,
+    "ma": 51,
+    "en": 48,
+    "ag": 42,
+    "lu": 39
   },
   {
     "inherits": "ice",
     "lvl": 85,
     "race": "Empress",
     "resists": "----r---wn",
-    "stats": [
-      55,
-      54,
-      48,
-      50,
-      55
-    ],
     "trait": "Ghost Nest",
-    "name": "Mother Harlot"
+    "name": "Mother Harlot",
+    "st": 55,
+    "ma": 54,
+    "en": 48,
+    "ag": 50,
+    "lu": 55
   },
   {
     "inherits": "elec",
     "lvl": 33,
     "race": "Moon",
     "resists": "-w--n-s---",
-    "stats": [
-      21,
-      24,
-      16,
-      24,
-      21
-    ],
     "trait": "Static Electricity",
-    "name": "Mothman"
+    "name": "Mothman",
+    "st": 21,
+    "ma": 24,
+    "en": 16,
+    "ag": 24,
+    "lu": 21
   },
   {
     "inherits": "elec",
     "lvl": 24,
     "race": "Hermit",
     "resists": "-s--nw----",
-    "stats": [
-      15,
-      17,
-      15,
-      17,
-      15
-    ],
     "trait": "Striking Weight",
-    "name": "Naga"
+    "name": "Naga",
+    "st": 15,
+    "ma": 17,
+    "en": 15,
+    "ag": 17,
+    "lu": 15
   },
   {
     "inherits": "ailment",
     "lvl": 48,
     "race": "Lovers",
     "resists": "--w-ns--s-",
-    "stats": [
-      27,
-      31,
-      29,
-      33,
-      31
-    ],
     "trait": "Gluttonmouth",
-    "name": "Narcissus"
+    "name": "Narcissus",
+    "st": 27,
+    "ma": 31,
+    "en": 29,
+    "ag": 33,
+    "lu": 31
   },
   {
     "inherits": "curse",
     "lvl": 74,
     "race": "Devil",
     "resists": "------n-ws",
-    "stats": [
-      45,
-      52,
-      44,
-      46,
-      42
-    ],
     "trait": "Psychic Bloodline",
-    "name": "Nebiros"
+    "name": "Nebiros",
+    "st": 45,
+    "ma": 52,
+    "en": 44,
+    "ag": 46,
+    "lu": 42
   },
   {
     "inherits": "almighty",
     "lvl": 30,
     "race": "Star",
     "resists": "s---sw--ns",
-    "stats": [
-      19,
-      20,
-      19,
-      21,
-      18
-    ],
     "trait": "Pinch Anchor",
-    "name": "Neko Shogun"
+    "name": "Neko Shogun",
+    "st": 19,
+    "ma": 20,
+    "en": 19,
+    "ag": 21,
+    "lu": 18
   },
   {
     "inherits": "ailment",
     "lvl": 17,
     "race": "Magician",
     "resists": "----w-s---",
-    "stats": [
-      13,
-      10,
-      12,
-      15,
-      8
-    ],
     "trait": "Foul Odor",
-    "name": "Nekomata"
+    "name": "Nekomata",
+    "st": 13,
+    "ma": 10,
+    "en": 12,
+    "ag": 15,
+    "lu": 8
   },
   {
     "inherits": "healing",
     "lvl": 22,
     "race": "Councillor",
     "resists": "----w---ss",
-    "stats": [
-      13,
-      15,
-      15,
-      16,
-      14
-    ],
     "trait": "Relief Bloodline",
-    "name": "Nigi Mitama"
+    "name": "Nigi Mitama",
+    "st": 13,
+    "ma": 15,
+    "en": 15,
+    "ag": 16,
+    "lu": 14
   },
   {
     "inherits": "almighty",
     "lvl": 52,
     "race": "Fortune",
     "resists": "----rd--s-",
-    "stats": [
-      30,
-      38,
-      33,
-      34,
-      28
-    ],
     "trait": "Intense Focus",
-    "name": "Norn"
+    "name": "Norn",
+    "st": 30,
+    "ma": 38,
+    "en": 33,
+    "ag": 34,
+    "lu": 28
   },
   {
     "inherits": "curse",
     "lvl": 20,
     "race": "Death",
     "resists": "--ws-----n",
-    "stats": [
-      16,
-      10,
-      17,
-      14,
-      10
-    ],
     "trait": "Mighty Gaze",
-    "name": "Nue"
+    "name": "Nue",
+    "st": 16,
+    "ma": 10,
+    "en": 17,
+    "ag": 14,
+    "lu": 10
   },
   {
     "inherits": "phys",
     "lvl": 8,
     "race": "Fool",
     "resists": "s---w-----",
-    "stats": [
-      7,
-      3,
-      9,
-      8,
-      4
-    ],
     "trait": "Striking Weight",
-    "name": "Obariyon"
+    "name": "Obariyon",
+    "st": 7,
+    "ma": 3,
+    "en": 9,
+    "ag": 8,
+    "lu": 4
   },
   {
     "inherits": "elec",
     "lvl": 66,
     "race": "Emperor",
     "resists": "----s-nw--",
-    "stats": [
-      40,
-      45,
-      42,
-      43,
-      35
-    ],
     "trait": "Static Electricity",
-    "name": "Oberon"
+    "name": "Oberon",
+    "st": 40,
+    "ma": 45,
+    "en": 42,
+    "ag": 43,
+    "lu": 35
   },
   {
     "inherits": "elec",
     "lvl": 84,
     "race": "Emperor",
     "resists": "----nd--rr",
-    "stats": [
-      53,
-      58,
-      54,
-      52,
-      42
-    ],
     "trait": "Bargain Bolts",
-    "name": "Odin"
+    "name": "Odin",
+    "st": 53,
+    "ma": 58,
+    "en": 54,
+    "ag": 52,
+    "lu": 42
   },
   {
     "inherits": "psy",
     "lvl": 54,
     "race": "Faith",
     "resists": "----rwnw--",
-    "stats": [
-      39,
-      35,
-      33,
-      32,
-      30
-    ],
     "trait": "Psychic Bloodline",
-    "name": "Okuninushi"
+    "name": "Okuninushi",
+    "st": 39,
+    "ma": 35,
+    "en": 33,
+    "ag": 32,
+    "lu": 30
   },
   {
     "inherits": "phys",
     "lvl": 89,
     "race": "Hermit",
     "resists": "s-------rr",
-    "stats": [
-      56,
-      53,
-      57,
-      59,
-      49
-    ],
     "trait": "Demon's Bite",
-    "name": "Ongyo-Ki"
+    "name": "Ongyo-Ki",
+    "st": 56,
+    "ma": 53,
+    "en": 57,
+    "ag": 59,
+    "lu": 49
   },
   {
     "inherits": "phys",
     "lvl": 20,
     "race": "Strength",
     "resists": "ss--------",
-    "stats": [
-      19,
-      9,
-      17,
-      12,
-      10
-    ],
     "trait": "Retaliating Body",
-    "name": "Oni"
+    "name": "Oni",
+    "st": 19,
+    "ma": 9,
+    "en": 17,
+    "ag": 12,
+    "lu": 10
   },
   {
     "inherits": "curse",
     "lvl": 12,
     "race": "Moon",
     "resists": "--sw----wn",
-    "stats": [
-      9,
-      12,
-      7,
-      10,
-      5
-    ],
     "trait": "Intense Focus",
-    "name": "Onmoraki"
+    "name": "Onmoraki",
+    "st": 9,
+    "ma": 12,
+    "en": 7,
+    "ag": 10,
+    "lu": 5
   },
   {
     "inherits": "almighty",
     "lvl": 60,
     "race": "Faith",
     "resists": "ss------w-",
-    "stats": [
-      60,
-      60,
-      60,
-      60,
-      60
-    ],
     "trait": "Ultimate Vessel",
-    "name": "Orichalcum"
+    "name": "Orichalcum",
+    "st": 60,
+    "ma": 60,
+    "en": 60,
+    "ag": 60,
+    "lu": 60
   },
   {
     "inherits": "almighty",
     "lvl": 30,
     "race": "Strength",
     "resists": "ss-------w",
-    "stats": [
-      30,
-      30,
-      30,
-      30,
-      30
-    ],
     "trait": "Ultimate Vessel",
-    "name": "Orlov"
+    "name": "Orlov",
+    "st": 30,
+    "ma": 30,
+    "en": 30,
+    "ag": 30,
+    "lu": 30
   },
   {
     "inherits": "fire",
     "lvl": 17,
     "race": "Hierophant",
     "resists": "---w-s---s",
-    "stats": [
-      11,
-      14,
-      15,
-      12,
-      6
-    ],
     "trait": "Mighty Gaze",
-    "name": "Orobas"
+    "name": "Orobas",
+    "st": 11,
+    "ma": 14,
+    "en": 15,
+    "ag": 12,
+    "lu": 6
   },
   {
     "inherits": "fire",
     "lvl": 21,
     "race": "Hanged",
     "resists": "--dw---s--",
-    "stats": [
-      16,
-      14,
-      14,
-      19,
-      7
-    ],
     "trait": "Thermal Conduct",
-    "name": "Orthrus"
+    "name": "Orthrus",
+    "st": 16,
+    "ma": 14,
+    "en": 14,
+    "ag": 19,
+    "lu": 7
   },
   {
     "inherits": "ailment",
     "lvl": 42,
     "race": "Fool",
     "resists": "-ns-----wn",
-    "stats": [
-      32,
-      24,
-      25,
-      31,
-      21
-    ],
     "trait": "Retaliating Body",
-    "name": "Ose"
+    "name": "Ose",
+    "st": 32,
+    "ma": 24,
+    "en": 25,
+    "ag": 31,
+    "lu": 21
   },
   {
     "inherits": "curse",
     "lvl": 54,
     "race": "Death",
     "resists": "-----s--wr",
-    "stats": [
-      32,
-      37,
-      33,
-      40,
-      27
-    ],
     "trait": "Foul Stench",
-    "name": "Pale Rider"
+    "name": "Pale Rider",
+    "st": 32,
+    "ma": 37,
+    "en": 33,
+    "ag": 40,
+    "lu": 27
   },
   {
     "inherits": "psy",
     "lvl": 56,
     "race": "Lovers",
     "resists": "---r--s-sw",
-    "stats": [
-      33,
-      39,
-      33,
-      39,
-      31
-    ],
     "trait": "Skillful Technique",
-    "name": "Parvati"
+    "name": "Parvati",
+    "st": 33,
+    "ma": 39,
+    "en": 33,
+    "ag": 39,
+    "lu": 31
   },
   {
     "inherits": "curse",
     "lvl": 45,
     "race": "Devil",
     "resists": "-----s--wn",
-    "stats": [
-      29,
-      33,
-      27,
-      26,
-      27
-    ],
     "trait": "Cursed Bloodline",
-    "name": "Pazuzu"
+    "name": "Pazuzu",
+    "st": 29,
+    "ma": 33,
+    "en": 27,
+    "ag": 26,
+    "lu": 27
   },
   {
     "inherits": "nuke",
     "lvl": 21,
     "race": "Faith",
     "resists": "---swn----",
-    "stats": [
-      12,
-      15,
-      15,
-      17,
-      11
-    ],
     "trait": "Atomic Bloodline",
-    "name": "Phoenix"
+    "name": "Phoenix",
+    "st": 12,
+    "ma": 15,
+    "en": 15,
+    "ag": 17,
+    "lu": 11
   },
   {
     "inherits": "curse",
     "lvl": 28,
     "race": "Death",
     "resists": "--w-s---wn",
-    "stats": [
-      19,
-      21,
-      21,
-      16,
-      14
-    ],
     "trait": "Rare Antibody",
-    "name": "Pisaca"
+    "name": "Pisaca",
+    "st": 19,
+    "ma": 21,
+    "en": 21,
+    "ag": 16,
+    "lu": 14
   },
   {
     "inherits": "elec",
     "lvl": 2,
     "race": "Lovers",
     "resists": "-w-ws---sw",
-    "stats": [
-      1,
-      3,
-      3,
-      4,
-      2
-    ],
     "trait": "Static Electricity",
-    "name": "Pixie"
+    "name": "Pixie",
+    "st": 1,
+    "ma": 3,
+    "en": 3,
+    "ag": 4,
+    "lu": 2
   },
   {
     "inherits": "bless",
     "lvl": 41,
     "race": "Justice",
     "resists": "-w---s--nw",
-    "stats": [
-      30,
-      26,
-      28,
-      25,
-      21
-    ],
     "trait": "Internal Hypnosis",
-    "name": "Power"
+    "name": "Power",
+    "st": 30,
+    "ma": 26,
+    "en": 28,
+    "ag": 25,
+    "lu": 21
   },
   {
     "inherits": "bless",
     "lvl": 29,
     "race": "Justice",
     "resists": "--s-----nw",
-    "stats": [
-      17,
-      19,
-      18,
-      21,
-      19
-    ],
     "trait": "Blessed Bloodline",
-    "name": "Principality"
+    "name": "Principality",
+    "st": 17,
+    "ma": 19,
+    "en": 18,
+    "ag": 21,
+    "lu": 19
   },
   {
     "inherits": "almighty",
     "lvl": 43,
     "race": "Magician",
     "resists": "--n-sw----",
-    "stats": [
-      23,
-      35,
-      26,
-      30,
-      22
-    ],
     "trait": "Static Electricity",
-    "name": "Queen Mab"
+    "name": "Queen Mab",
+    "st": 23,
+    "ma": 35,
+    "en": 26,
+    "ag": 30,
+    "lu": 22
   },
   {
     "inherits": "almighty",
     "lvl": 15,
     "race": "Empress",
     "resists": "ss----w---",
-    "stats": [
-      15,
-      15,
-      15,
-      15,
-      15
-    ],
     "trait": "Ultimate Vessel",
-    "name": "Queen's Necklace"
+    "name": "Queen's Necklace",
+    "st": 15,
+    "ma": 15,
+    "en": 15,
+    "ag": 15,
+    "lu": 15
   },
   {
     "inherits": "wind",
     "lvl": 66,
     "race": "Sun",
     "resists": "--n--sw---",
-    "stats": [
-      41,
-      46,
-      41,
-      43,
-      34
-    ],
     "trait": "Wind Bloodline",
-    "name": "Quetzalcoatl"
+    "name": "Quetzalcoatl",
+    "st": 41,
+    "ma": 46,
+    "en": 41,
+    "ag": 43,
+    "lu": 34
   },
   {
     "inherits": "elec",
     "lvl": 55,
     "race": "Temperance",
     "resists": "----n-----",
-    "stats": [
-      33,
-      37,
-      36,
-      35,
-      31
-    ],
     "trait": "Electric Bloodline",
-    "name": "Raja Naga"
+    "name": "Raja Naga",
+    "st": 33,
+    "ma": 37,
+    "en": 36,
+    "ag": 35,
+    "lu": 31
   },
   {
     "inherits": "phys",
     "lvl": 24,
     "race": "Strength",
     "resists": "sns--w--ws",
-    "stats": [
-      20,
-      15,
-      18,
-      17,
-      9
-    ],
     "trait": "Skillful Combo",
-    "name": "Rakshasa"
+    "name": "Rakshasa",
+    "st": 20,
+    "ma": 15,
+    "en": 18,
+    "ag": 17,
+    "lu": 9
   },
   {
     "inherits": "curse",
     "lvl": 48,
     "race": "Magician",
     "resists": "rrn-w---wn",
-    "stats": [
-      28,
-      34,
-      30,
-      33,
-      26
-    ],
     "trait": "Cursed Bloodline",
-    "name": "Rangda"
+    "name": "Rangda",
+    "st": 28,
+    "ma": 34,
+    "en": 30,
+    "ag": 33,
+    "lu": 26
   },
   {
     "inherits": "almighty",
     "lvl": 78,
     "race": "Lovers",
     "resists": "---d--n-n-",
-    "stats": [
-      57,
-      45,
-      49,
-      55,
-      35
-    ],
     "trait": "Pinch Anchor",
-    "name": "Raphael"
+    "name": "Raphael",
+    "st": 57,
+    "ma": 45,
+    "en": 49,
+    "ag": 55,
+    "lu": 35
   },
   {
     "inherits": "psy",
     "lvl": 41,
     "race": "Tower",
     "resists": "--------wn",
-    "stats": [
-      26,
-      27,
-      25,
-      29,
-      23
-    ],
     "trait": "Ailment Hunter",
-    "name": "Red Rider"
+    "name": "Red Rider",
+    "st": 26,
+    "ma": 27,
+    "en": 25,
+    "ag": 29,
+    "lu": 23
   },
   {
     "inherits": "almighty",
     "lvl": 10,
     "race": "Emperor",
     "resists": "ss-----w--",
-    "stats": [
-      10,
-      10,
-      10,
-      10,
-      10
-    ],
     "trait": "Ultimate Vessel",
-    "name": "Regent"
+    "name": "Regent",
+    "st": 10,
+    "ma": 10,
+    "en": 10,
+    "ag": 10,
+    "lu": 10
   },
   {
     "inherits": "healing",
     "lvl": 6,
     "race": "Lovers",
     "resists": "---s-w----",
-    "stats": [
-      4,
-      6,
-      5,
-      6,
-      4
-    ],
     "trait": "Internal Hypnosis",
-    "name": "Saki Mitama"
+    "name": "Saki Mitama",
+    "st": 4,
+    "ma": 6,
+    "en": 5,
+    "ag": 6,
+    "lu": 4
   },
   {
     "inherits": "bless",
     "lvl": 75,
     "race": "Moon",
     "resists": "ss------rn",
-    "stats": [
-      46,
-      51,
-      49,
-      48,
-      38
-    ],
     "trait": "Omen",
-    "name": "Sandalphon"
+    "name": "Sandalphon",
+    "st": 46,
+    "ma": 51,
+    "en": 49,
+    "ag": 48,
+    "lu": 38
   },
   {
     "inherits": "wind",
     "lvl": 23,
     "race": "Magician",
     "resists": "--w-ws----",
-    "stats": [
-      11,
-      13,
-      14,
-      17,
-      21
-    ],
     "trait": "Foul Odor",
-    "name": "Sandman"
+    "name": "Sandman",
+    "st": 11,
+    "ma": 13,
+    "en": 14,
+    "ag": 17,
+    "lu": 21
   },
   {
     "inherits": "healing",
     "lvl": 50,
     "race": "Priestess",
     "resists": "---ns--w--",
-    "stats": [
-      30,
-      35,
-      32,
-      33,
-      27
-    ],
     "trait": "Relief Bloodline",
-    "name": "Sarasvati"
+    "name": "Sarasvati",
+    "st": 30,
+    "ma": 35,
+    "en": 32,
+    "ag": 33,
+    "lu": 27
   },
   {
     "inherits": "ice",
     "lvl": 92,
     "race": "Judgement",
     "resists": "-s-r-----r",
-    "stats": [
-      62,
-      59,
-      55,
-      52,
-      55
-    ],
     "trait": "Cocytus",
-    "name": "Satan"
+    "name": "Satan",
+    "st": 62,
+    "ma": 59,
+    "en": 55,
+    "ag": 52,
+    "lu": 55
   },
   {
     "inherits": "almighty",
     "lvl": 95,
     "race": "Fool",
     "resists": "ssssssssnd",
-    "stats": [
-      63,
-      60,
-      57,
-      56,
-      56
-    ],
     "trait": "Pagan Allure",
-    "name": "Satanael"
+    "name": "Satanael",
+    "st": 63,
+    "ma": 60,
+    "en": 57,
+    "ag": 56,
+    "lu": 56
   },
   {
     "inherits": "wind",
     "lvl": 77,
     "race": "Priestess",
     "resists": "---nr----n",
-    "stats": [
-      48,
-      52,
-      46,
-      48,
-      44
-    ],
     "trait": "Skillful Technique",
-    "name": "Scathach"
+    "name": "Scathach",
+    "st": 48,
+    "ma": 52,
+    "en": 46,
+    "ag": 48,
+    "lu": 44
   },
   {
     "inherits": "ice",
     "lvl": 62,
     "race": "Councillor",
     "resists": "---s---w--",
-    "stats": [
-      38,
-      41,
-      43,
-      37,
-      34
-    ],
     "trait": "Relentless",
-    "name": "Seiryu"
+    "name": "Seiryu",
+    "st": 38,
+    "ma": 41,
+    "en": 43,
+    "ag": 37,
+    "lu": 34
   },
   {
     "inherits": "phys",
     "lvl": 25,
     "race": "Emperor",
     "resists": "-s----ws--",
-    "stats": [
-      19,
-      16,
-      18,
-      13,
-      16
-    ],
     "trait": "Retaliating Body",
-    "name": "Setanta"
+    "name": "Setanta",
+    "st": 19,
+    "ma": 16,
+    "en": 18,
+    "ag": 13,
+    "lu": 16
   },
   {
     "inherits": "fire",
     "lvl": 51,
     "race": "Tower",
     "resists": "--r--n--ws",
-    "stats": [
-      32,
-      35,
-      30,
-      35,
-      28
-    ],
     "trait": "Potent Hypnosis",
-    "name": "Seth"
+    "name": "Seth",
+    "st": 32,
+    "ma": 35,
+    "en": 30,
+    "ag": 35,
+    "lu": 28
   },
   {
     "inherits": "elec",
     "lvl": 15,
     "race": "Strength",
     "resists": "s-----w-nw",
-    "stats": [
-      10,
-      11,
-      11,
-      11,
-      9
-    ],
     "trait": "Atomic Bloodline",
-    "name": "Shiisaa"
+    "name": "Shiisaa",
+    "st": 10,
+    "ma": 11,
+    "en": 11,
+    "ag": 11,
+    "lu": 9
   },
   {
     "inherits": "psy",
     "lvl": 18,
     "race": "Chariot",
     "resists": "nn-----wnn",
-    "stats": [
-      16,
-      14,
-      12,
-      9,
-      10
-    ],
     "trait": "Psychic Bloodline",
-    "name": "Shiki-Ouji"
+    "name": "Shiki-Ouji",
+    "st": 16,
+    "ma": 14,
+    "en": 12,
+    "ag": 9,
+    "lu": 10
   },
   {
     "inherits": "psy",
     "lvl": 82,
     "race": "Judgement",
     "resists": "---nr-dwnn",
-    "stats": [
-      55,
-      54,
-      53,
-      53,
-      38
-    ],
     "trait": "Psychic Bloodline",
-    "name": "Shiva"
+    "name": "Shiva",
+    "st": 55,
+    "ma": 54,
+    "en": 53,
+    "ag": 53,
+    "lu": 38
   },
   {
     "inherits": "phys",
     "lvl": 84,
     "race": "Faith",
     "resists": "ns-sn--w--",
-    "stats": [
-      61,
-      43,
-      55,
-      55,
-      45
-    ],
     "trait": "Retaliating Body",
-    "name": "Siegfried"
+    "name": "Siegfried",
+    "st": 61,
+    "ma": 43,
+    "en": 55,
+    "ag": 55,
+    "lu": 45
   },
   {
     "inherits": "healing",
     "lvl": 6,
     "race": "Priestess",
     "resists": "--wsw-----",
-    "stats": [
-      4,
-      7,
-      4,
-      5,
-      5
-    ],
     "trait": "Intense Focus",
-    "name": "Silky"
+    "name": "Silky",
+    "st": 4,
+    "ma": 7,
+    "en": 4,
+    "ag": 5,
+    "lu": 5
   },
   {
     "inherits": "ice",
     "lvl": 53,
     "race": "Priestess",
     "resists": "---r-----n",
-    "stats": [
-      33,
-      39,
-      32,
-      34,
-      28
-    ],
     "trait": "Bloodstained Eyes",
-    "name": "Skadi"
+    "name": "Skadi",
+    "st": 33,
+    "ma": 39,
+    "en": 32,
+    "ag": 34,
+    "lu": 28
   },
   {
     "inherits": "curse",
     "lvl": 10,
     "race": "Chariot",
     "resists": "ssw--w----",
-    "stats": [
-      9,
-      6,
-      11,
-      6,
-      5
-    ],
     "trait": "Rare Antibody",
-    "name": "Slime"
+    "name": "Slime",
+    "st": 9,
+    "ma": 6,
+    "en": 11,
+    "ag": 6,
+    "lu": 5
   },
   {
     "inherits": "bless",
     "lvl": 80,
     "race": "Star",
     "resists": "----d---rw",
-    "stats": [
-      47,
-      56,
-      45,
-      56,
-      43
-    ],
     "trait": "Blessed Bloodline",
-    "name": "Sraosha"
+    "name": "Sraosha",
+    "st": 47,
+    "ma": 56,
+    "en": 45,
+    "ag": 56,
+    "lu": 43
   },
   {
     "inherits": "almighty",
     "lvl": 20,
     "race": "Fortune",
     "resists": "ssw-------",
-    "stats": [
-      20,
-      20,
-      20,
-      20,
-      20
-    ],
     "trait": "Ultimate Vessel",
-    "name": "Stone of Scone"
+    "name": "Stone of Scone",
+    "st": 20,
+    "ma": 20,
+    "en": 20,
+    "ag": 20,
+    "lu": 20
   },
   {
     "inherits": "curse",
     "lvl": 7,
     "race": "Moon",
     "resists": "--s--w--wn",
-    "stats": [
-      4,
-      7,
-      5,
-      8,
-      4
-    ],
     "trait": "Foul Odor",
-    "name": "Succubus"
+    "name": "Succubus",
+    "st": 4,
+    "ma": 7,
+    "en": 5,
+    "ag": 8,
+    "lu": 4
   },
   {
     "inherits": "psy",
     "lvl": 17,
     "race": "Hermit",
     "resists": "---w-r-w--",
-    "stats": [
-      9,
-      14,
-      12,
-      13,
-      10
-    ],
     "trait": "Gloomy Child",
-    "name": "Sudama"
+    "name": "Sudama",
+    "st": 9,
+    "ma": 14,
+    "en": 12,
+    "ag": 13,
+    "lu": 10
   },
   {
     "inherits": "ice",
     "lvl": 24,
     "race": "Moon",
     "resists": "-s-ds--w--",
-    "stats": [
-      16,
-      15,
-      15,
-      18,
-      15
-    ],
     "trait": "Frigid Bloodline",
-    "name": "Sui-Ki"
+    "name": "Sui-Ki",
+    "st": 16,
+    "ma": 15,
+    "en": 15,
+    "ag": 18,
+    "lu": 15
   },
   {
     "inherits": "fire",
     "lvl": 83,
     "race": "Magician",
     "resists": "-sdwn--s--",
-    "stats": [
-      55,
-      54,
-      51,
-      50,
-      46
-    ],
     "trait": "Heated Bloodline",
-    "name": "Surt"
+    "name": "Surt",
+    "st": 55,
+    "ma": 54,
+    "en": 51,
+    "ag": 50,
+    "lu": 46
   },
   {
     "inherits": "nuke",
     "lvl": 16,
     "race": "Sun",
     "resists": "--dw---s--",
-    "stats": [
-      9,
-      12,
-      10,
-      15,
-      9
-    ],
     "trait": "Gluttonmouth",
-    "name": "Suzaku"
+    "name": "Suzaku",
+    "st": 9,
+    "ma": 12,
+    "en": 10,
+    "ag": 15,
+    "lu": 9
   },
   {
     "inherits": "elec",
     "lvl": 26,
     "race": "Hanged",
     "resists": "----s-w--s",
-    "stats": [
-      17,
-      19,
-      18,
-      16,
-      15
-    ],
     "trait": "Electric Bloodline",
-    "name": "Take-Minakata"
+    "name": "Take-Minakata",
+    "st": 17,
+    "ma": 19,
+    "en": 18,
+    "ag": 16,
+    "lu": 15
   },
   {
     "inherits": "almighty",
     "lvl": 27,
     "race": "Faith",
     "resists": "s-n--s--dw",
-    "stats": [
-      21,
-      16,
-      18,
-      16,
-      17
-    ],
     "trait": "Gluttonmouth",
-    "name": "Tam Lin"
+    "name": "Tam Lin",
+    "st": 21,
+    "ma": 16,
+    "en": 18,
+    "ag": 16,
+    "lu": 17
   },
   {
     "inherits": "elec",
     "lvl": 64,
     "race": "Chariot",
     "resists": "s---n---ss",
-    "stats": [
-      44,
-      39,
-      43,
-      38,
-      35
-    ],
     "trait": "Intense Focus",
-    "name": "Thor"
+    "name": "Thor",
+    "st": 44,
+    "ma": 39,
+    "en": 43,
+    "ag": 38,
+    "lu": 35
   },
   {
     "inherits": "nuke",
     "lvl": 36,
     "race": "Emperor",
     "resists": "------wnns",
-    "stats": [
-      21,
-      28,
-      21,
-      24,
-      21
-    ],
     "trait": "Skillful Technique",
-    "name": "Thoth"
+    "name": "Thoth",
+    "st": 21,
+    "ma": 28,
+    "en": 21,
+    "ag": 24,
+    "lu": 21
   },
   {
     "inherits": "bless",
     "lvl": 72,
     "race": "Justice",
     "resists": "--n--n-wr-",
-    "stats": [
-      42,
-      49,
-      43,
-      46,
-      43
-    ],
     "trait": "Crisis Control",
-    "name": "Throne"
+    "name": "Throne",
+    "st": 42,
+    "ma": 49,
+    "en": 43,
+    "ag": 46,
+    "lu": 43
   },
   {
     "inherits": "elec",
     "lvl": 34,
     "race": "Sun",
     "resists": "----d-w--w",
-    "stats": [
-      17,
-      24,
-      24,
-      26,
-      18
-    ],
     "trait": "Electric Bloodline",
-    "name": "Thunderbird"
+    "name": "Thunderbird",
+    "st": 17,
+    "ma": 24,
+    "en": 24,
+    "ag": 26,
+    "lu": 18
   },
   {
     "inherits": "nuke",
     "lvl": 56,
     "race": "Empress",
     "resists": "------wsss",
-    "stats": [
-      32,
-      40,
-      35,
-      38,
-      30
-    ],
     "trait": "Foul Stench",
-    "name": "Titania"
+    "name": "Titania",
+    "st": 32,
+    "ma": 40,
+    "en": 35,
+    "ag": 38,
+    "lu": 30
   },
   {
     "inherits": "almighty",
     "lvl": 59,
     "race": "Judgement",
     "resists": "---dr---rn",
-    "stats": [
-      33,
-      42,
-      40,
-      38,
-      31
-    ],
     "trait": "Relentless",
-    "name": "Trumpeter"
+    "name": "Trumpeter",
+    "st": 33,
+    "ma": 42,
+    "en": 40,
+    "ag": 38,
+    "lu": 31
   },
   {
     "inherits": "bless",
     "lvl": 39,
     "race": "Faith",
     "resists": "---n--s-nw",
-    "stats": [
-      20,
-      27,
-      25,
-      28,
-      24
-    ],
     "trait": "Blessed Bloodline",
-    "name": "Unicorn"
+    "name": "Unicorn",
+    "st": 20,
+    "ma": 27,
+    "en": 25,
+    "ag": 28,
+    "lu": 24
   },
   {
     "inherits": "almighty",
     "lvl": 81,
     "race": "Justice",
     "resists": "--n----dr-",
-    "stats": [
-      50,
-      54,
-      49,
-      55,
-      42
-    ],
     "trait": "Mouth of Savoring",
-    "name": "Uriel"
+    "name": "Uriel",
+    "st": 50,
+    "ma": 54,
+    "en": 49,
+    "ag": 55,
+    "lu": 42
   },
   {
     "inherits": "phys",
     "lvl": 44,
     "race": "Strength",
     "resists": "-swr----n-",
-    "stats": [
-      33,
-      24,
-      28,
-      29,
-      25
-    ],
     "trait": "Skillful Combo",
-    "name": "Valkyrie"
+    "name": "Valkyrie",
+    "st": 33,
+    "ma": 24,
+    "en": 28,
+    "ag": 29,
+    "lu": 25
   },
   {
     "inherits": "ailment",
     "lvl": 68,
     "race": "Star",
     "resists": "---nn----w",
-    "stats": [
-      42,
-      45,
-      44,
-      42,
-      38
-    ],
     "trait": "Foul Stench",
-    "name": "Vasuki"
+    "name": "Vasuki",
+    "st": 42,
+    "ma": 45,
+    "en": 44,
+    "ag": 42,
+    "lu": 38
   },
   {
     "inherits": "almighty",
     "lvl": 83,
     "race": "Fool",
     "resists": "--wd----nn",
-    "stats": [
-      56,
-      51,
-      49,
-      57,
-      43
-    ],
     "trait": "Vahana's Wings",
-    "name": "Vishnu"
+    "name": "Vishnu",
+    "st": 56,
+    "ma": 51,
+    "en": 49,
+    "ag": 57,
+    "lu": 43
   },
   {
     "inherits": "almighty",
     "lvl": 80,
     "race": "Councillor",
     "resists": "----sw--dn",
-    "stats": [
-      46,
-      59,
-      45,
-      56,
-      41
-    ],
     "trait": "Positive Thoughts",
-    "name": "Vohu Manah"
+    "name": "Vohu Manah",
+    "st": 46,
+    "ma": 59,
+    "en": 45,
+    "ag": 56,
+    "lu": 41
   },
   {
     "inherits": "curse",
     "lvl": 38,
     "race": "Chariot",
     "resists": "--nw----nr",
-    "stats": [
-      22,
-      21,
-      26,
-      27,
-      25
-    ],
     "trait": "Bloodstained Eyes",
-    "name": "White Rider"
+    "name": "White Rider",
+    "st": 22,
+    "ma": 21,
+    "en": 26,
+    "ag": 27,
+    "lu": 25
   },
   {
     "inherits": "ice",
     "lvl": 20,
     "race": "Empress",
     "resists": "-n-s---w--",
-    "stats": [
-      14,
-      11,
-      13,
-      16,
-      13
-    ],
     "trait": "Foul Odor",
-    "name": "Yaksini"
+    "name": "Yaksini",
+    "st": 14,
+    "ma": 11,
+    "en": 13,
+    "ag": 16,
+    "lu": 13
   },
   {
     "inherits": "ice",
     "lvl": 64,
     "race": "Judgement",
     "resists": "s--d-s---s",
-    "stats": [
-      44,
-      38,
-      48,
-      36,
-      33
-    ],
     "trait": "Cold-Blooded",
-    "name": "Yamata-no-Orochi"
+    "name": "Yamata-no-Orochi",
+    "st": 44,
+    "ma": 38,
+    "en": 48,
+    "ag": 36,
+    "lu": 33
   },
   {
     "inherits": "fire",
     "lvl": 57,
     "race": "Councillor",
     "resists": "-----s--nw",
-    "stats": [
-      35,
-      41,
-      30,
-      40,
-      32
-    ],
     "trait": "Potent Hypnosis",
-    "name": "Yatagarasu"
+    "name": "Yatagarasu",
+    "st": 35,
+    "ma": 41,
+    "en": 30,
+    "ag": 40,
+    "lu": 32
   },
   {
     "inherits": "phys",
     "lvl": 87,
     "race": "Tower",
     "resists": "n-s-r---r-",
-    "stats": [
-      63,
-      52,
-      50,
-      54,
-      49
-    ],
     "trait": "Retaliating Body",
-    "name": "Yoshitsune"
+    "name": "Yoshitsune",
+    "st": 63,
+    "ma": 52,
+    "en": 50,
+    "ag": 54,
+    "lu": 49
   },
   {
     "inherits": "elec",
     "lvl": 43,
     "race": "Sun",
     "resists": "----n-w-s-",
-    "stats": [
-      26,
-      29,
-      30,
-      27,
-      24
-    ],
     "trait": "Mouth of Savoring",
-    "name": "Yurlungur"
+    "name": "Yurlungur",
+    "st": 26,
+    "ma": 29,
+    "en": 30,
+    "ag": 27,
+    "lu": 24
   },
   {
     "inherits": "fire",
     "lvl": 80,
     "race": "Strength",
     "resists": "--r-w---nn",
-    "stats": [
-      57,
-      45,
-      50,
-      56,
-      39
-    ],
     "trait": "Undying Fury",
-    "name": "Zaou-Gongen"
+    "name": "Zaou-Gongen",
+    "st": 57,
+    "ma": 45,
+    "en": 50,
+    "ag": 56,
+    "lu": 39
   },
   {
     "inherits": "elec",
     "lvl": 31,
     "race": "Strength",
     "resists": "s----w----",
-    "stats": [
-      22,
-      19,
-      24,
-      18,
-      17
-    ],
     "trait": "Electric Bloodline",
-    "name": "Zouchouten"
+    "name": "Zouchouten",
+    "st": 22,
+    "ma": 19,
+    "en": 24,
+    "ag": 18,
+    "lu": 17
   }
 ]
